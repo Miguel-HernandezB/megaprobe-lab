@@ -19,7 +19,7 @@ Besides computer science and programming, I enjoy watching and playing soccer, a
 - Contribute to the land of Programming Languages
 - Understand and apply Type Theory
 - Understand Homotopy Type Theory
-- Find the Fourth Futamura Projection :laughing:
+- Find the Fourth Futamura Projection
 
 ## Research Description
 
@@ -45,3 +45,10 @@ The hope is that the type checker can later be extended to the semantics of a ge
 - Gave presentation of updates
 - Decided to pursue on proving a 2 line program using weakest precondition
 - Keep developing scanner for the language
+
+### Week 4: (1-4, 4, 2025)
+- Finished scanner for language
+- Started developing parser for language
+- Improved weakest precondition program in order to handle both sides
+- Read Ch. 1 of SICP to gain more confidence in Scheme
+- Started reading on Futamura Projections
