@@ -33,3 +33,8 @@ semantics and dataflow semantics.
 
 - Reading _Evaluating Derivatives Principles and Techniques Algorithmic Differentiation_ and took notes
 - Reading _Beautiful Differentiation_ and took notes
+
+### Week 2: (23-27, 2, 2026)
+
+- Started working on El MegaProble Language (MPL)
+- Made parser and evaluator
