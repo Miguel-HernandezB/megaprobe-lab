@@ -14,13 +14,14 @@ Tags: programming languages, reflective languages, Haskell, Lisp/Scheme
 ## Bio
 
 My name is Isaac Hiram Lopez Diaz. I am a Master's student at Computer Science at UPRRP.
-Besides computer science and programming, I enjoy watching and playing soccer, and the beach.
+Besides computer science and programming, I enjoy watching and playing soccer and pickleball, and the beach.
 
 ## Research Goals
 
 - Contribute to Programming Languages
 - Understand and combine dataflow semantics with functional and/or imperative semantics
-- Understand Homotopy Type Theory
+- Understand Algebraic Effects
+- Build a functional programming language with bioinformatics primitives
 
 ## Research Description
 
@@ -38,3 +39,8 @@ semantics and dataflow semantics.
 
 - Started working on El MegaProble Language (MPL)
 - Made parser and evaluator
+
+### Week 3: (2-6, 3, 2026)
+
+- Finished evaluator for basic PL needs
+- Added simple bioinformatics (DNA, RNA types, and transcribe and reverse_complement functions)
